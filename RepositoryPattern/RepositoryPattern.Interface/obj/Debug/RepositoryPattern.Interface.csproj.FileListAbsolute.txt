@@ -1,0 +1,11 @@
+c:\users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Interface\bin\Debug\RepositoryPattern.Interface.pdb
+c:\users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Interface\obj\Debug\RepositoryPattern.Interface.csprojAssemblyReference.cache
+c:\users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Interface\obj\Debug\RepositoryPattern.Interface.csproj.CoreCompileInputs.cache
+c:\users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Interface\obj\Debug\RepositoryPattern.Interface.pdb
+C:\Users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Interface\bin\Debug\RepositoryPattern.Interface.dll.config
+C:\Users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Interface\bin\Debug\RepositoryPattern.Interface.dll
+C:\Users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Interface\bin\Debug\RepositoryPattern.Models.dll
+C:\Users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Interface\bin\Debug\RepositoryPattern.Models.pdb
+C:\Users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Interface\bin\Debug\RepositoryPattern.Models.dll.config
+C:\Users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Interface\obj\Debug\RepositoryPattern.Interface.csproj.CopyComplete
+C:\Users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Interface\obj\Debug\RepositoryPattern.Interface.dll

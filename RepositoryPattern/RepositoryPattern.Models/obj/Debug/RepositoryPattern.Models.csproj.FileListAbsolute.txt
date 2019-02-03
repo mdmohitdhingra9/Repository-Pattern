@@ -1,0 +1,6 @@
+c:\users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Models\bin\Debug\RepositoryPattern.Models.pdb
+c:\users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Models\obj\Debug\RepositoryPattern.Models.csproj.CoreCompileInputs.cache
+c:\users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Models\obj\Debug\RepositoryPattern.Models.pdb
+C:\Users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Models\bin\Debug\RepositoryPattern.Models.dll.config
+C:\Users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Models\bin\Debug\RepositoryPattern.Models.dll
+C:\Users\modhingr\source\repos\RepositoryPattern\RepositoryPattern.Models\obj\Debug\RepositoryPattern.Models.dll
